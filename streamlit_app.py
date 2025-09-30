@@ -2,6 +2,7 @@ st.title("🎈 My new app")
 st.write(
 
 import streamlit as st
+    st.write("Hello, Streamlit!")  # 페이지 인삿말 예시
 
 st.title("Streamlit 주요 요소 예시")  # 페이지 제목
 st.header("헤더 예시")  # 큰 제목
